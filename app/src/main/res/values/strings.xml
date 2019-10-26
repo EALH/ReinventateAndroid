@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Reinventate</string>
+    <string name="title_activity_oficios">Oficios</string>
+    <string-array name="tipos">
+        <item>Seleccione...</item>
+        <item>Vendedor</item>
+    </string-array>
+</resources>
